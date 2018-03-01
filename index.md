@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-<img src="/img/prontoweb.png" style="margin: 0 auto; display:block;"></img>
+<img src="/img/prontoweb.png" style="margin: 0 auto; display:block;">
